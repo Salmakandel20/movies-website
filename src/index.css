@@ -1,12 +1,15 @@
 body {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: left;
 }
 .color-body {
   background-color: white;
   height: 100vh;
 }
 .nav-style {
-  height: 90px;
+  height: 88px;
   width: 1440px;
   background-color: #b45b35;
 }
@@ -24,11 +27,12 @@ body {
   height: 40px;
   text-indent: 25px;
   border-radius: 20px;
+  border: 2px solid transparent;
 }
 
 .search input:focus {
   box-shadow: none;
-  border: 2px solid red;
+  border-color: #ec6b33;
 }
 .search .fa-search {
   position: absolute;
@@ -121,6 +125,7 @@ body {
   font-size: 18px;
   letter-spacing: 0;
   line-height: 32px;
+  text-align: left;
 }
 .card-text-title {
   color: #555555;
@@ -130,5 +135,3 @@ body {
   letter-spacing: 0;
   line-height: 49px;
 }
-
-

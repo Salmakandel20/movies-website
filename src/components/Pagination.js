@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { Pagination } from 'react-bootstrap'
 import ReactPaginate from 'react-paginate';
-import axios from 'axios'
 import { useSelector, useDispatch } from 'react-redux'
 import { getPage } from '../redux/actions/movieAction'
 
@@ -24,16 +22,16 @@ const PaginationComponent = () => {
 
 
 
-
+    console.log({ pages });
     return (
         <ReactPaginate
             breakLabel="..."
-            nextLabel="التالى"
+            nextLabel="Next"
             onPageChange={handlePageClick}
             marginPagesDisplayed={2}
             pageRangeDisplayed={2}
             pageCount={pageCount}
-            previousLabel="السابق"
+            previousLabel="Prev"
             containerClassName={"pagination justify-content-center p-3"}
             pageClassName={"page-item"}
             pageLinkClassName={"page-link"}
