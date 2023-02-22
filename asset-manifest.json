@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/movies-website-using-reactjs/static/css/main.9ce27b4d.chunk.css",
+    "main.js": "/movies-website-using-reactjs/static/js/main.af208e76.chunk.js",
+    "main.js.map": "/movies-website-using-reactjs/static/js/main.af208e76.chunk.js.map",
+    "runtime-main.js": "/movies-website-using-reactjs/static/js/runtime-main.7397af19.js",
+    "runtime-main.js.map": "/movies-website-using-reactjs/static/js/runtime-main.7397af19.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/movies-website-using-reactjs/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.cce8bf21.chunk.js": "/movies-website-using-reactjs/static/js/2.cce8bf21.chunk.js",
+    "static/js/2.cce8bf21.chunk.js.map": "/movies-website-using-reactjs/static/js/2.cce8bf21.chunk.js.map",
+    "index.html": "/movies-website-using-reactjs/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/movies-website-using-reactjs/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.9ce27b4d.chunk.css.map": "/movies-website-using-reactjs/static/css/main.9ce27b4d.chunk.css.map",
+    "static/js/2.cce8bf21.chunk.js.LICENSE.txt": "/movies-website-using-reactjs/static/js/2.cce8bf21.chunk.js.LICENSE.txt",
+    "static/media/logo.800ff118.png": "/movies-website-using-reactjs/static/media/logo.800ff118.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7397af19.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.cce8bf21.chunk.js",
+    "static/css/main.9ce27b4d.chunk.css",
+    "static/js/main.af208e76.chunk.js"
+  ]
+}
